@@ -1,0 +1,133 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container1{
+    padding-left: 100px;
+    display: flex;
+    align-items: center;
+    background-color: white;
+    justify-content: space-around;
+    height: 200px;
+}
+.container1div{
+    display: flex;
+    align-items: center;
+}
+#headerimg2{
+    height: 30px;
+}
+.spancolor1{
+    color: blue;
+}
+.container2{
+    height: 80px;
+    background-color: darkblue;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+
+}
+.container2 a{
+    text-decoration: none;
+    margin: 20px;
+    color: white;
+    font-size: 20px;
+}
+.container2 a:hover{
+    background-color: black;
+    cursor: pointer;
+    height: 80px; 
+    display: flex;
+    align-items: center;
+
+}
+.container3{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: skyblue;
+}
+.container3 img{
+    height: 430px;
+    width: 570px;
+}
+.container3 h1{
+    color: white;
+    font-size: 50px;
+}
+.container3 span{
+    font-size: 25px;
+}
+.container3span{
+    color: white;
+}
+.container4{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.container4input{
+    width: 500px;
+    height: 50px;
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 0px 10px 0px skyblue;
+}
+.container4 h1 {
+    font-size: 50px;
+    color: darkblue;
+}
+.container4button{
+    background-color: darkblue;
+    color: white;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 50px;
+}
+.container4 p{
+    color: gray;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    background-color: darkblue;
+    align-items: center;
+}
+.col31 img{
+    width: 50px;
+}
+.col32 img{
+    padding: 5px;
+   height: 70px;
+   width: 70px;
+   object-fit: cover;
+}
+.footer p{
+    color: gray;
+    font-size: 10px;
+}
+.footer h4{
+    color: skyblue;
+}
+.col31div img{
+    height: 25px;
+    width: 25px;
+    object-fit: cover;
+}
+.col31div{
+    display: flex;
+    align-items: center;
+}
+.col31div span{
+    color: gray;
+}
+.container6{
+    height: 50px;
+    width: 100%;
+    background-color: skyblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+  

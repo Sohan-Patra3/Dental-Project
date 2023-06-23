@@ -1,0 +1,143 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container1{
+    padding-left: 100px;
+    display: flex;
+    align-items: center;
+    background-color: white;
+    justify-content: space-around;
+    height: 200px;
+}
+.container1div{
+    display: flex;
+    align-items: center;
+}
+#headerimg2{
+    height: 30px;
+}
+.spancolor1{
+    color: blue;
+}
+
+.container2{
+    height: 80px;
+    background-color: darkblue;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+
+}
+.container2 a{
+    text-decoration: none;
+    margin: 20px;
+    color: white;
+    font-size: 20px;
+}
+.container2 a:hover{
+    background-color: black;
+    cursor: pointer;
+    height: 80px; 
+    display: flex;
+    align-items: center;
+
+}
+.container3{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: skyblue;
+}
+.container3 h1{
+    color: white;
+    font-size: 50px;
+}
+.container3 span{
+    font-size: 25px;
+}
+.container3span{
+    color: white;
+}
+.container4{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: white;
+}
+.container4 h3{
+    color: skyblue;
+}
+.container4 p{
+    color: gray;
+}
+.container4 li{
+    color: gray;
+    padding: 5px;
+}
+.container4 h2{
+    color: darkblue;
+}
+.container5{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 40px;
+}
+.container5 h3{
+    color: skyblue;
+    padding: 5px;
+}
+.container5 p{
+    color: gray;
+    padding: 5px;
+}
+.container6{
+    height: 150px;
+    width: 100%;
+    background-color: rgb(104, 104, 112);
+    display: flex;
+    justify-content: space-around;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    background-color: darkblue;
+    align-items: center;
+}
+.col31 img{
+    width: 50px;
+}
+.col32 img{
+    padding: 5px;
+   height: 70px;
+   width: 70px;
+}
+.footer p{
+    color: gray;
+    font-size: 10px;
+}
+.footer h4{
+    color: skyblue;
+}
+.col31div img{
+    height: 25px;
+    width: 25px;
+    object-fit: cover;
+}
+.col31div{
+    display: flex;
+    align-items: center;
+}
+.col31div span{
+    color: gray;
+}
+.container7{
+    height: 50px;
+    width: 100%;
+    background-color: skyblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+  
